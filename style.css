@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+    width: 100%;
+    flex-direction: column;
+}
+
+h1{
+    font-size: 70px;
+}
+
+img{
+    height: 400px;
+}
+
+button{
+    height: 50px;
+    width: 100px;
+}
